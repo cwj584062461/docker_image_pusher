@@ -1,4 +1,3 @@
 nginx
 mysql:8.0.29
-gitlab
-Git lab
+gitlab/gitlab-ce
